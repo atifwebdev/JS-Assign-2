@@ -1,0 +1,42 @@
+﻿Javascript Assignment 
+
+1. Write a program that takes a username. Convert and show the name in small letters in an Alert box.
+(e.g. User inputs mUhAmmaD aTIF it will see in alert muhammad atif)
+
+2. Initialize an array with color names (Array length should be 5). First Log that array in your console
+HINT: push, pop, shift, unshift, splice
+
+a. Ask the user what color he/she wants to add to the beginning & add that color to the beginning of the array. Display the updated array values in your browser using Alert (All the values should be listed in alert)
+
+b. Ask the user what color he/she wants to add to the end & add that color to the end of the array. Display the updated array in your browser using Alert (All the values should be listed in an alert)
+
+c. Add two more color to the beginning of the array. Display the updated array in your browser using Alert (All the values should be listed in an alert)
+
+d. Delete the first color in the array. Display the updated array in your browser using Alert (All the values should be listed in an alert)
+
+e. Delete the last color in the array. Display the updated array in your browser using Alert (All the values should be listed in an alert)
+
+f. Ask the user at which index he/she wants to add a color & color name. Then add the color to desired position/index. Display the updated array in your browser using Alert (All the values should be listed in an alert)
+
+g. Ask the user at which index he/she wants to delete color(s) & how many colors he/she wants to delete. Then remove the same number of color(s) from user-defined position/index. . Display the updated array in your browser using Alert (All the values should be listed in an alert)
+
+
+3. Write a two dimensional for loop program that will print the following pattern. 
+Get prompt from user & make identity matrix accordingly
+eg; if user enters 3 then output matrix will be of 3 x 3
+1 0 0
+0 1 0
+0 0 1
+
+
+4. Write a for loop program that will print the following patterns
+a)12345          b)  *****
+  1234               ****
+  123                ***
+  12                 **
+  1                  *
+
+
+5. Write a program to replace the “Hyder” to “Islam” in the word
+“Hyderabad” and display the result in your browser. Output should be "Islamabad"
+Hint: String.replace
